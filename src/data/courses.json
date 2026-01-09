@@ -1,0 +1,294 @@
+[
+    {
+        "id": 1,
+        "title": "Full Stack Web Development",
+        "instructor": "Dr. Sarah Ahmed",
+        "price": 99.99,
+        "rating": 4.8,
+        "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "description": "Learn both frontend and backend development from scratch.",
+        "category": "Programming",
+        "syllabus": [
+            {
+                "title": "Introduction to HTML & CSS",
+                "content": "Learn the building blocks of the web."
+            },
+            {
+                "title": "JavaScript Fundamentals",
+                "content": "Master variables, loops, and functions."
+            },
+            {
+                "title": "ReactJS Library",
+                "content": "Build modern user interfaces with React."
+            },
+            {
+                "title": "Node.js & Express",
+                "content": "Create robust backend APIs."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Data Science & Machine Learning",
+        "instructor": "Eng. Khalid Mansour",
+        "price": 129.99,
+        "rating": 4.9,
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "description": "Master Python, Pandas, and Scikit-Learn to build predictive models.",
+        "category": "Data Science",
+        "syllabus": [
+            {
+                "title": "Python for Data Science",
+                "content": "Getting started with Python syntax."
+            },
+            {
+                "title": "Data Visualization",
+                "content": "Using Matplotlib and Seaborn."
+            },
+            {
+                "title": "Machine Learning Models",
+                "content": "Regression, Classification, and Clustering."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Graphic Design Masterclass",
+        "instructor": "Layla Hassan",
+        "price": 59.99,
+        "rating": 4.7,
+        "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "description": "Unlock your creativity with Photoshop, Illustrator, and Figma.",
+        "category": "Design",
+        "syllabus": [
+            {
+                "title": "Design Principles",
+                "content": "Color theory and typography."
+            },
+            {
+                "title": "Adobe Photoshop",
+                "content": "Photo editing and manipulation."
+            },
+            {
+                "title": "User Interface Design",
+                "content": "Creating beautiful app layouts."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Digital Marketing Strategy",
+        "instructor": "Omar Zayed",
+        "price": 49.99,
+        "rating": 4.5,
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "description": "Grow your business using SEO, SEM, and social media.",
+        "category": "Marketing",
+        "syllabus": [
+            {
+                "title": "SEO Basics",
+                "content": "How to rank on Google."
+            },
+            {
+                "title": "Social Media Ads",
+                "content": "Facebook and Instagram marketing."
+            },
+            {
+                "title": "Email Marketing",
+                "content": "Building and nurturing your list."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Cybersecurity Fundamentals",
+        "instructor": "Robert Wilson",
+        "price": 149.99,
+        "rating": 4.9,
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "description": "Protect systems and networks from digital attacks.",
+        "category": "IT & Security",
+        "syllabus": [
+            {
+                "title": "Networking Basics",
+                "content": "TCP/IP and OSI models."
+            },
+            {
+                "title": "Ethical Hacking",
+                "content": "Penetration testing techniques."
+            },
+            {
+                "title": "Cloud Security",
+                "content": "Securing AWS and Azure environments."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Mobile App Development (Flutter)",
+        "instructor": "Maria Garcia",
+        "price": 89.99,
+        "rating": 4.6,
+        "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "description": "Build high-performance apps for iOS and Android with one codebase.",
+        "category": "Programming",
+        "syllabus": [
+            {
+                "title": "Dart Language",
+                "content": "Introduction to Dart programming."
+            },
+            {
+                "title": "Flutter Widgets",
+                "content": "Building responsive UI."
+            },
+            {
+                "title": "State Management",
+                "content": "Using Provider and Bloc."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Project Management (PMP)",
+        "instructor": "John Smith",
+        "price": 199.99,
+        "rating": 4.8,
+        "image": "https://images.unsplash.com/photo-1454165833767-027ffea9e51b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "description": "Master the principles of project management and get PMP certified.",
+        "category": "Business",
+        "syllabus": [
+            {
+                "title": "Agile Methodology",
+                "content": "Scrum and Kanban frameworks."
+            },
+            {
+                "title": "Risk Management",
+                "content": "Identifying and mitigating risks."
+            },
+            {
+                "title": "Leadership Skills",
+                "content": "Managing teams effectively."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Photography Essentials",
+        "instructor": "Sophia Lee",
+        "price": 39.99,
+        "rating": 4.4,
+        "image": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "description": "Capture stunning photos with any camera.",
+        "category": "Art",
+        "syllabus": [
+            {
+                "title": "Camera Settings",
+                "content": "Aperture, Shutter Speed, and ISO."
+            },
+            {
+                "title": "Composition",
+                "content": "The rule of thirds and framing."
+            },
+            {
+                "title": "Post-Processing",
+                "content": "Introduction to Lightroom."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Financial Analysis & Modeling",
+        "instructor": "James Miller",
+        "price": 110.00,
+        "rating": 4.7,
+        "image": "https://images.unsplash.com/photo-1543286386-713bdd548da4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "description": "Learn to analyze company financial statements and build models.",
+        "category": "Finance",
+        "syllabus": [
+            {
+                "title": "Excel for Finance",
+                "content": "Advanced formulas and shortcuts."
+            },
+            {
+                "title": "Valuation Methods",
+                "content": "DCF and comparable analysis."
+            },
+            {
+                "title": "Financial Statements",
+                "content": "Balance sheets and cash flows."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Public Speaking Mastery",
+        "instructor": "Emma Thompson",
+        "price": 29.99,
+        "rating": 4.9,
+        "image": "https://images.unsplash.com/photo-1475721027785-f74dea327912?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "description": "Deliver powerful presentations with confidence.",
+        "category": "Soft Skills",
+        "syllabus": [
+            {
+                "title": "Overcoming Fear",
+                "content": "Techniques for stage fright."
+            },
+            {
+                "title": "Body Language",
+                "content": "Using gestures effectively."
+            },
+            {
+                "title": "Storytelling",
+                "content": "Crafting a compelling narrative."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Artificial Intelligence Basics",
+        "instructor": "Dr. Alan Turing",
+        "price": 150.00,
+        "rating": 4.8,
+        "image": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "description": "Understand the future of technology and AI applications.",
+        "category": "Data Science",
+        "syllabus": [
+            {
+                "title": "What is AI?",
+                "content": "History and definitions."
+            },
+            {
+                "title": "Neural Networks",
+                "content": "How machines learn."
+            },
+            {
+                "title": "AI Ethics",
+                "content": "The impact of AI on society."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Blockchain & Cryptocurrency",
+        "instructor": "Satoshi Nakamoto",
+        "price": 75.00,
+        "rating": 4.6,
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "description": "Explore the tech behind Bitcoin and Ethereum.",
+        "category": "IT & Security",
+        "syllabus": [
+            {
+                "title": "How Blockchain Works",
+                "content": "Decentralized ledgers Explained."
+            },
+            {
+                "title": "Smart Contracts",
+                "content": "Basics of Solidity."
+            },
+            {
+                "title": "Investing in Crypto",
+                "content": "Understanding markets and wallets."
+            }
+        ]
+    }
+]
