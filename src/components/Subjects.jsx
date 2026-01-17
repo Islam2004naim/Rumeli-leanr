@@ -11,8 +11,8 @@ export const Subjects = () => {
             {/* Header section */}
             <div className='max-w-[800px] mx-auto text-center mb-16'>
                 <h3 className='text-3xl md:text-4xl font-bold mb-4 text-center'>
-                    {t("Subjects.h3")}
-                </h3>               <p className='text-gray-500 text-lg'>{t("Subjects.p")}</p>
+                    {t("subjects.h3")}
+                </h3>               <p className='text-gray-500 text-lg'>{t("subjects.p")}</p>
             </div>
 
             {/* Subjects grid */}
