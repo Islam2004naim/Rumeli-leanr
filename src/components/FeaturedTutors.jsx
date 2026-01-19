@@ -12,10 +12,10 @@ export const FeaturedTutors = () => {
             {/* Header section */}
             <div className='max-w-3xl mx-auto text-center mb-16'>
                 <h3 className='text-3xl md:text-4xl font-bold mb-4 capitalize'>
-                    {t("FeaturesT.text")}
+                    {t("featuresT.text")}
                 </h3>
                 <p className='text-gray-500 text-lg max-w-2xl mx-auto'>
-                    {t("FeaturesT.text1")}
+                    {t("featuresT.text1")}
                 </p>
             </div>
 
@@ -57,7 +57,7 @@ export const FeaturedTutors = () => {
                                 }}
                                 className='bg-white text-black px-8 py-2.5 rounded-full font-semibold hover:bg-secondary hover:text-white transition-all transform translate-y-4 group-hover:translate-y-0 duration-500'
                             >
-                                {t("FeaturesT.text2")}
+                                {t("featuresT.text2")}
                             </button>
                             <button
                                 onClick={() => {
@@ -66,7 +66,7 @@ export const FeaturedTutors = () => {
                                 }}
                                 className='bg-white/20 backdrop-blur-md text-white border border-white/30 px-8 py-2.5 rounded-full font-semibold hover:bg-white hover:text-black transition-all transform translate-y-4 group-hover:translate-y-0 duration-500 delay-75'
                             >
-                                {t("FeaturesT.text3")}
+                                {t("featuresT.text3")}
                             </button>
                         </div>
                     </div>

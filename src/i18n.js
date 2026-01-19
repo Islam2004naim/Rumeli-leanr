@@ -195,6 +195,13 @@ i18n.use(initReactI18next).init({
                     h3: "Konuya Göre Keşfedin",
                     p: "İster matematiğe dalın, ister bir dilde ustalaşın, ister fen ve teknolojiyi keşfedin, konu bazlı kategorilerimiz işinizi kolaylaştırır",
                 },
+                featuresT: {
+                    title: "Profesyoneller İçin Üretildi",
+                    text: "Kaliteli Eğitim Sunmak",
+                    text1: "Platformumuz, bilgi paylaşmaya ve gelecekleri şekillendirmeye tutkulu profesyonel eğitmenleri güçlendirmek için tasarlanmıştır.",
+                    text2: "Profili Görüntüle",
+                    text3: "Eğitmenleri Keşfedin"
+                },
                 About: {
                     h3: "Binlerce Öğrenci ve Uzman Eğitmen Tarafından Seçildi",
                     text: "Platformumuz, dünyanın her yerinden binlerce motivasyonu yüksek öğrenciyi ve yüksek puanlı eğitmeni bir araya getiriyor.",
